@@ -1,0 +1,3 @@
++/kitchen/temperature
+home/kitchen/freezer/+
+home/kitchen/+/temperature

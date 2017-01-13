@@ -1,0 +1,7 @@
+work/kitchen/temperature
+school/kitchen/temperature
+home/kitchen/temperature
+home/kitchen/refrigerator/temperature
+home/kitchen/freezer/temperature
+home/kitchen/freezer/food
+home/kitchen/freezer/drinks
